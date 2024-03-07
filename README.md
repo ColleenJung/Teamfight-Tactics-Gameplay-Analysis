@@ -17,7 +17,7 @@ Our dataset includes detailed endgame statistics from Set 8 of TFT, specifically
 - To develop predictive models that can analyze and predict winning strategies in TFT.
 - To assist game developers in balancing gameplay by providing data-driven insights.
 
-<img width="268" alt="image" src="https://github.com/ColleenJung/Teamfight-Tactics-Gameplay-Analysis/assets/119357849/4847bb78-9c70-4ed7-98ae-272163d67bff">
+<img width="300" alt="image" src="https://github.com/ColleenJung/Teamfight-Tactics-Gameplay-Analysis/assets/119357849/4847bb78-9c70-4ed7-98ae-272163d67bff">
 
 
 <img width="285" alt="image" src="https://github.com/ColleenJung/Teamfight-Tactics-Gameplay-Analysis/assets/119357849/7612aa9e-e1cf-46fc-ae83-895fc7f21df3">
