@@ -1,6 +1,5 @@
 # Teamfight-Tactics-Gameplay-Analysis
 
-# Teamfight Tactics Gameplay Analysis
 
 ## Overview
 This project is a comprehensive analysis of gameplay data from Teamfight Tactics (TFT), an auto battler game developed by Riot Games. Our focus is on extracting insights into winning strategies and understanding game balance.
@@ -35,20 +34,19 @@ Our dataset includes detailed endgame statistics from Set 8 of TFT, specifically
 
 <img width="389" alt="Screenshot 2024-03-06 at 10 38 09 PM" src="https://github.com/ColleenJung/Teamfight-Tactics-Gameplay-Analysis/assets/119357849/1a1dabcb-31dd-4e3f-8b42-b95748376aa6">
 
-# TOP 3 UNITS
+### TOP 3 UNITS
 
 1. Poppy
 2. Zed
 3. Ekko
 
-   
-# TOP 3 TRAITS
+### TOP 3 TRAITS
 
 1. Corrupted
 2. Hacker
 3. Arsenal
 
-# Top 3 features
+### Top 3 features
 1. Total Items
 2. Level
 3. Tier
